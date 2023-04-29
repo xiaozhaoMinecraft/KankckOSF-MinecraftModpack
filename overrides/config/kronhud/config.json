@@ -1,0 +1,230 @@
+{
+  "armorHudStorage": {
+    "backgroundColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "x": 1.0,
+    "y": 1.0,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "itemUpdateHudStorage": {
+    "timeout": 6000,
+    "x": 0.078947365,
+    "y": 0.8305882,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "cpsHudStorage": {
+    "clicksCPS": false,
+    "textColor": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255,
+      "color": -1
+    },
+    "backgroundColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "x": 0.36473164,
+    "y": 1.0,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "fpsHudStorage": {
+    "textColor": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255,
+      "color": -1
+    },
+    "backgroundColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "x": 0.099671416,
+    "y": 0.21544716,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "pingHudStorage": {
+    "textColor": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255,
+      "color": -1
+    },
+    "backgroundColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "x": 0.099671416,
+    "y": 0.27439025,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "potionsHudStorage": {
+    "x": 0.0,
+    "y": 0.2,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "arrowHudStorage": {
+    "backgroundColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "textColor": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255,
+      "color": -1
+    },
+    "x": 0.33297873,
+    "y": 0.93473685,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "crossHairHudStorage": {
+    "type": "CROSS",
+    "basic": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255,
+      "color": -1
+    },
+    "entity": {
+      "red": 191,
+      "green": 34,
+      "blue": 34,
+      "alpha": 255,
+      "color": -4251102
+    },
+    "block": {
+      "red": 51,
+      "green": 153,
+      "blue": 255,
+      "alpha": 255,
+      "color": -13395457
+    },
+    "x": 0.5,
+    "y": 0.5,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "keystrokeHudStorage": {
+    "unselected": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "selected": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 150,
+      "color": -1761607681
+    },
+    "x": 0.36754966,
+    "y": 0.9752252,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "coordsHudStorage": {
+    "backgroundColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "firstTextColor": {
+      "red": 51,
+      "green": 153,
+      "blue": 255,
+      "alpha": 255,
+      "color": -13395457
+    },
+    "secondTextColor": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255,
+      "color": -1
+    },
+    "decimalNum": 1,
+    "x": 0.8,
+    "y": 0.0,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "bossBarHudStorage": {
+    "text": true,
+    "bar": true,
+    "x": 0.5,
+    "y": 0.07058824,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "scoreboardHudStorage": {
+    "score": {
+      "red": 53,
+      "green": 219,
+      "blue": 103,
+      "alpha": 255,
+      "color": -13247641
+    },
+    "background": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 100,
+      "color": 1677721600
+    },
+    "outline": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 0,
+      "color": 16777215
+    },
+    "top": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 150,
+      "color": -1778384896
+    },
+    "place": "MIDDLE_RIGHT",
+    "x": 1.0,
+    "y": 0.5,
+    "scale": 1.0,
+    "enabled": true
+  },
+  "disableVanillaPotionHud": true,
+  "disableVanillaVignette": false
+}
